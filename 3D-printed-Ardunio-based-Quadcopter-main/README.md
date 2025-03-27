@@ -1,4 +1,4 @@
- | <img src="3D-printed-Ardunio-based-Quadcopter-main/IMG_20250325_172036.jpg" width=60% > 
+  <img src="3D-printed-Ardunio-based-Quadcopter-main/IMG_20250325_172036.jpg" width=60% > 
 
 
 
