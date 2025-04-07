@@ -2,7 +2,7 @@
 3D printed Ardunio and Stm32 based quadcopter 
 
 
-# ARDUNIO
+# ARDUNIO UNO
 | <img src= "3D-printed-Ardunio-based-Quadcopter-main/IMG_20250325_172036.jpg" > | <img src="3D-printed-Ardunio-based-Quadcopter-main/IMG_20250325_143729.jpg" > |
 | --------------------------- | --------------------------- |
 
